@@ -75,11 +75,37 @@ MLOps & Generative AI – Google Cloud
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Python | SQL  
-PyTorch | TensorFlow | Scikit-learn  
-NVIDIA TAO | Triton | Vertex AI  
-Pandas | NumPy | Time Series  
-GIS | NDVI | Satellite Data  
+<p align="center">
+  <!-- Core Languages & ML -->
+  <img src="https://skillicons.dev/icons?i=python,postgres,tensorflow,pytorch" />
+  
+  <!-- Data & ML Ecosystem -->
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,linux,docker" />
+</p>
+
+<p align="center">
+  <!-- Data Libraries (custom badges where icons not available) -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  
+  <!-- NVIDIA Stack -->
+  <img src="https://img.shields.io/badge/NVIDIA%20TAO-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Triton%20Inference-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  
+  <!-- Cloud / MLOps -->
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Domain Skills -->
+  <img src="https://img.shields.io/badge/Time%20Series-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GIS-0B3D91?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NDVI-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Satellite%20Data-607D8B?style=for-the-badge"/>
+</p>
 🌐 Languages
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
