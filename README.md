@@ -57,19 +57,32 @@ Turning messy datasets into something decision-makers can actually use
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Applied Accelerated AI – NPTEL × NVIDIA
+<p align="center">
+  <!-- NPTEL + NVIDIA -->
+  <img src="https://img.shields.io/badge/Applied%20Accelerated%20AI-NPTEL%20×%20NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
-Remote Sensing & Crop Forecasting – ISRO (IIRS)
+  <!-- ISRO -->
+  <img src="https://img.shields.io/badge/Remote%20Sensing%20%26%20Crop%20Forecasting-ISRO%20(IIRS)-0B3D91?style=for-the-badge"/>
 
-Fundamentals of Remote Sensing – NASA
+  <!-- NASA -->
+  <img src="https://img.shields.io/badge/Fundamentals%20of%20Remote%20Sensing-NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+</p>
 
-Forecasting Using ML – NPTEL
+<p align="center">
+  <!-- NPTEL Forecasting -->
+  <img src="https://img.shields.io/badge/Forecasting%20Using%20ML-NPTEL-FF6F00?style=for-the-badge"/>
 
-Full Stack Data Science – iNeuron
+  <!-- iNeuron -->
+  <img src="https://img.shields.io/badge/Full%20Stack%20Data%20Science-iNeuron-5A0FC8?style=for-the-badge"/>
 
-AI & ML Workshop – IIT Hyderabad
+  <!-- IIT Hyderabad -->
+  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Workshop-IIT%20Hyderabad-D32F2F?style=for-the-badge"/>
+</p>
 
-MLOps & Generative AI – Google Cloud
+<p align="center">
+  <!-- Google Cloud -->
+  <img src="https://img.shields.io/badge/MLOps%20%26%20Generative%20AI-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
 🛠️ Tech Stack
 
