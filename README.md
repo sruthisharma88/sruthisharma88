@@ -1,10 +1,14 @@
-👋 Hi, I’m Sruthi Sharma V
+👋 Hi, I’m Sruthi Sharma
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Electrical Engineer who got curious about how computers think… and didn’t stop at just running models.
+⚡ Electrical Engineer → AI Systems Builder
 
-Somewhere between understanding why GPUs exist and why models fail in production, I ended up building AI systems that try to be both smart and efficient (rare combination, I know).
+I don’t just train models.
+I build systems that make them fast, scalable, and usable in the real world.
+
+Most models work in notebooks.
+I focus on making them work under constraints, load, and production realities.
 
 🚀 What I Do
 
@@ -30,16 +34,17 @@ Work with satellite + geospatial data, because sometimes the answer is literally
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Most people:
+Most people optimize for accuracy.
 
-Either build models 📊
+I optimize for:
 
-Or build systems ⚙️
+⚡ Latency (because milliseconds matter)
 
-I got interested in both… which means:
+💾 Compute efficiency (GPUs aren’t free)
 
-👉 I don’t just ask “Is the model accurate?”
-👉 I ask “Will this survive real-world load?”
+📈 Scalability (one model → many users)
+
+👉 If a model is 99% accurate but unusable in production… it’s not useful.
 
 🌍 Things I’ve Worked On
 
